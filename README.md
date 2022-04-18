@@ -1,6 +1,6 @@
 # MiniPwner
 The official code for building your own MiniPwner
 
-4111111111111111
+Access key ID: AKIAIOSFODNN7ETESTLE
 
-388-23-9233
+Secret access key: wJalrXatnFEMI/K7MDENG/bPGRfiCYNOAMPLEKEY
